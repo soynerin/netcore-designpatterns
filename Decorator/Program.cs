@@ -6,6 +6,10 @@ namespace Decorator
     {
         static void Main(string[] args)
         {
+            Console.WriteLine();
+            Console.WriteLine("-------- USANDO PATRÓN DECORATOR --------");
+            Console.WriteLine();
+
             IComponente miAuto = new AutoComponente("Ford Raptor F-100", "Cabina Doble", 6394500);
 
             Console.WriteLine(miAuto);
