@@ -3,7 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30225.117
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Strategy", "Strategy\Strategy.csproj", "{25C7D73B-428D-4C9A-AAA0-48410CAF938A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Strategy", "Strategy\Strategy.csproj", "{25C7D73B-428D-4C9A-AAA0-48410CAF938A}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Decorator", "Decorator\Decorator.csproj", "{8491019A-C256-408D-83BA-FE6D33F653A0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Proxy", "Proxy\Proxy.csproj", "{EAC28D6D-DFAF-44DA-B762-1EF64BB4893F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +19,14 @@ Global
 		{25C7D73B-428D-4C9A-AAA0-48410CAF938A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{25C7D73B-428D-4C9A-AAA0-48410CAF938A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{25C7D73B-428D-4C9A-AAA0-48410CAF938A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8491019A-C256-408D-83BA-FE6D33F653A0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8491019A-C256-408D-83BA-FE6D33F653A0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8491019A-C256-408D-83BA-FE6D33F653A0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8491019A-C256-408D-83BA-FE6D33F653A0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EAC28D6D-DFAF-44DA-B762-1EF64BB4893F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EAC28D6D-DFAF-44DA-B762-1EF64BB4893F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EAC28D6D-DFAF-44DA-B762-1EF64BB4893F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EAC28D6D-DFAF-44DA-B762-1EF64BB4893F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
