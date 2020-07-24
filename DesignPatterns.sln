@@ -33,6 +33,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "State", "State\State.csproj
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Template", "Template\Template.csproj", "{33926F66-43A5-4367-851C-5B8E1C69C4A2}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChainOfResponsability", "ChainOfResponsability\ChainOfResponsability.csproj", "{D02C402E-16AE-4740-938E-F5212D505E58}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -99,6 +101,10 @@ Global
 		{33926F66-43A5-4367-851C-5B8E1C69C4A2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{33926F66-43A5-4367-851C-5B8E1C69C4A2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{33926F66-43A5-4367-851C-5B8E1C69C4A2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D02C402E-16AE-4740-938E-F5212D505E58}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D02C402E-16AE-4740-938E-F5212D505E58}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D02C402E-16AE-4740-938E-F5212D505E58}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D02C402E-16AE-4740-938E-F5212D505E58}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
